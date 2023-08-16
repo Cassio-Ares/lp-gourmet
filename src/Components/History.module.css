@@ -1,0 +1,28 @@
+.history{
+    display: flex;
+    margin-top: 8rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
+    align-items: center;
+}
+
+.history img{
+    width: 35rem;
+    height: 35rem;
+    border-radius: 10px;
+}
+
+.history section{
+    margin-left: 3rem;
+}
+
+.history section h1{
+     font-size: 3rem;
+}
+
+
+.history section p{ 
+    text-align: justify;
+
+}
+
