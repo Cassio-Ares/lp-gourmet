@@ -1,0 +1,36 @@
+.contact{
+ text-align: justify;
+ margin-left: 8rem;
+ margin-right: 8rem;
+ 
+}
+
+.contact form{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact form input{
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid #9b9696;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.contact form button{
+   width: 9rem;
+   height: 3rem;
+   margin-bottom: 6rem;
+   border-radius: 10px;
+   border: none;
+   cursor: pointer;
+}
+
+button:hover{
+    background-color: #dfd6d6;
+    
+}
+
+
+

@@ -1,0 +1,33 @@
+.menu{
+    display: flex;
+    margin-top: 8rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
+}
+
+.menu section{
+    display: flex;
+    flex-direction: column;
+    margin-right: 3rem;
+}
+
+.menu section dl{
+    text-align: justify;
+}
+
+.menu section dt{
+    margin: 0.5rem;
+
+}
+
+
+.menu section dd{
+    margin: 1rem;
+
+}
+
+.menu img{
+    width: 35rem;
+    height: 35rem;
+    border-radius: 10px;
+}
